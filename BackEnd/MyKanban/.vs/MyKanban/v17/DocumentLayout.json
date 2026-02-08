@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyKanban\\BackEnd\\MyKanban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\controllers\\labelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\controllers\\labelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\controllers\\statusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\controllers\\statusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\hubs\\kanbanhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\hubs\\kanbanhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\data\\mykanbandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\data\\mykanbandbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\mykanban.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\mykanban.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|e:\\mykanban\\backend\\mykanban\\mykanban\\models\\kanbantask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\models\\kanbantask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LabelsController.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Controllers\\LabelsController.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Controllers\\LabelsController.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Controllers\\LabelsController.cs",
+              "RelativeToolTip": "MyKanban\\Controllers\\LabelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T22:11:08.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatusesController.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Controllers\\StatusesController.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Controllers\\StatusesController.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Controllers\\StatusesController.cs",
+              "RelativeToolTip": "MyKanban\\Controllers\\StatusesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:37:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KanbanHub.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Hubs\\KanbanHub.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Hubs\\KanbanHub.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Hubs\\KanbanHub.cs",
+              "RelativeToolTip": "MyKanban\\Hubs\\KanbanHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T21:37:06.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyKanbanDbContext.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Data\\MyKanbanDbContext.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Data\\MyKanbanDbContext.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Data\\MyKanbanDbContext.cs",
+              "RelativeToolTip": "MyKanban\\Data\\MyKanbanDbContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:08:41.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyKanban",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj",
+              "RelativeDocumentMoniker": "MyKanban\\MyKanban.csproj",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj",
+              "RelativeToolTip": "MyKanban\\MyKanban.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T20:08:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Program.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Program.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Program.cs",
+              "RelativeToolTip": "MyKanban\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:05:50.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Status.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Models\\Status.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Models\\Status.cs",
+              "RelativeToolTip": "MyKanban\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:59:56.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KanbanTask.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Models\\KanbanTask.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Models\\KanbanTask.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Models\\KanbanTask.cs",
+              "RelativeToolTip": "MyKanban\\Models\\KanbanTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:57:31.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\appsettings.json",
+              "RelativeDocumentMoniker": "MyKanban\\appsettings.json",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\appsettings.json",
+              "RelativeToolTip": "MyKanban\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-08T19:51:10.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Extensions.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Extensions.cs",
+              "ToolTip": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Extensions.cs",
+              "RelativeToolTip": "MyKanban\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T19:47:21.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
