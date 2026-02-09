@@ -1,11 +1,15 @@
 using Microsoft.EntityFrameworkCore;
 using MyKanban.Data;
+using MyKanban.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+// Adicione SignalR
+builder.Services.AddSignalR();
 
 builder.Services.AddCors(options =>
 {
@@ -42,5 +46,8 @@ if (!app.Environment.IsDevelopment())
 app.UseCors();
 
 app.MapControllers();
+
+// Mapeie o Hub
+app.MapHub<KanbanHub>("/kanbanHub");
 
 app.Run();

@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj": {}
+    "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj": {}
   },
   "projects": {
-    "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj": {
+    "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj",
+        "projectUniqueName": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj",
         "projectName": "MyKanban",
-        "projectPath": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj",
-        "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-        "outputPath": "E:\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\obj\\",
+        "projectPath": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\MyKanban.csproj",
+        "packagesPath": "C:\\Users\\Meu Computador\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\conta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Meu Computador\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/mJh2N7FVKviNQilzHiuDlVAwG3U68pergH5AThRKW6jQCL8DjS/api/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -44,7 +46,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -120,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

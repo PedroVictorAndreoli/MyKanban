@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|c:\\users\\meu computador\\documents\\github\\mykanban\\backend\\mykanban\\mykanban\\hub\\kanbanhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\hub\\kanbanhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|c:\\users\\meu computador\\documents\\github\\mykanban\\backend\\mykanban\\mykanban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3574C851-F377-434B-A8D2-E89EE7FEC46E}|MyKanban\\MyKanban.csproj|solutionrelative:mykanban\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Program.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Program.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Program.cs",
+              "RelativeToolTip": "MyKanban\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:48:39.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KanbanHub.cs",
+              "DocumentMoniker": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Hub\\KanbanHub.cs",
+              "RelativeDocumentMoniker": "MyKanban\\Hub\\KanbanHub.cs",
+              "ToolTip": "C:\\Users\\Meu Computador\\Documents\\GitHub\\MyKanban\\BackEnd\\MyKanban\\MyKanban\\Hub\\KanbanHub.cs",
+              "RelativeToolTip": "MyKanban\\Hub\\KanbanHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T15:48:07.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
